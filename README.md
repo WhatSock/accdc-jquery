@@ -3,6 +3,9 @@ The AccDC API for jQuery R2.0.2 (01/17/2013)
 
 AccDC is a scalable, cross-browser and cross-platform compatible Dynamic Content Management System that automates the rendering of dynamic content to ensure accessibility for screen reader and keyboard only users.
 
+This version of AccDC is an API that interfaces with jQuery as an extension.
+All of the toolkit component modules plug into this interface.
+
 How it works
 -----
 
