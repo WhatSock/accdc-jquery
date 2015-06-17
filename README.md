@@ -35,6 +35,10 @@ http://whatsock.com/jquery/
 Related projects:
 -----
 
+The Accessibility Tree - A Training Guide for Advanced Web Development: https://github.com/accdc/training
+
+The ARIA Role Conformance Matrices: https://github.com/accdc/aria-matrices
+
 AccDC API
 Standalone: https://github.com/accdc/accdc
 For jQuery: https://github.com/accdc/accdc-jquery
